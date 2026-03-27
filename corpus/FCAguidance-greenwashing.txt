@@ -1,0 +1,1023 @@
+Finalised Guidance
+FG24/3
+
+Finalised non‑handbook guidance
+on the Anti‑Greenwashing Rule
+
+April 2024
+
+Finalised guidance
+
+Contents
+
+Sign up for our news and
+publications alerts
+
+See all our latest press releases,
+consultations and speeches.
+
+1.
+
+Introduction
+
+3
+
+2.
+
+Guidance on the anti‑greenwashing rule
+
+5
+
+3.
+
+Feedback Statement
+
+14
+
+Annex 1
+List of non‑confidential respondents
+
+19
+
+Annex 2
+Abbreviations used in this paper
+
+21
+
+Finalised guidance
+
+Chapter 1
+
+Introduction
+Background
+1.1
+
+The anti‑greenwashing rule is one part of a package of measures we finalised in November
+2023 through our Policy Statement (PS) on Sustainability Disclosure Requirements (SDR)
+and investment labels (PS23/16). When we published PS23/16 we consulted on general
+guidance to support the implementation of the anti‑greenwashing rule.
+
+1.2
+
+There is significant consumer interest in sustainable products and services. Our
+Financial Lives Survey (2022) shows that 74% of adults surveyed agreed that
+environmental issues are really important to them and 79% agreed businesses have a
+wider social responsibility than simply making a profit. As the demand for sustainable
+products and services grows, so does the risk of ‘greenwashing’. As firms increasingly
+make sustainability‑related claims about their products and services, there are concerns
+that some of these may be exaggerated, misleading, and unsubstantiated.
+
+1.3
+
+Tackling greenwashing is a priority for us. We want to protect consumers against
+greenwashing so they can make informed decisions that are aligned with their
+sustainability preferences. But we also want to create a level playing field for firms in an
+evolving market, whose products and services genuinely represent a more sustainable
+choice and who are making genuine claims about their products’ and services’
+sustainability characteristics. If stakeholders trust the sustainability‑related claims firms
+are making about their products and services, this may increase confidence in markets
+and the flow of capital into these products.
+
+1.4
+
+We introduced the anti‑greenwashing rule to clarify to firms that sustainability‑related
+claims about their products and services must be fair, clear and not misleading. It gives
+us an explicit rule on which to challenge firms if we consider they are making misleading
+sustainability‑related claims about their products or services and, if appropriate, take
+further action.
+
+1.5
+
+This Guidance is designed to help firms understand and implement our anti‑greenwashing
+rule, following feedback from some respondents to our consultation paper (CP) on SDR
+and investment labels (CP22/20) asking for guidance.
+
+How this links to our objectives
+1.6
+
+This Guidance is compatible with our strategic objective to make markets function well,
+by increasing transparency on the sustainability features of products and services and
+reducing the risk of harm arising from greenwashing.
+
+3
+
+Finalised guidance
+
+1.7
+
+It is intended to advance our operational objectives by helping firms ensure that, as
+product and service offerings evolve, sustainability‑related claims stand up to scrutiny
+and consumers are protected from potentially misleading or inaccurate information.
+Increasing the transparency and accuracy of sustainability‑related claims which are
+made about products and services should also help enhance the integrity and credibility
+of the market for sustainable finance and ensure that competition remains effective.
+
+1.8
+
+The Guidance is also consistent with our secondary international competitiveness and
+growth objective. It should enable both consumers and firms to have better confidence
+in identifying sustainable products and making informed purchases. Better industry
+standards should help to improve market integrity and build on the UK’s reputation
+and leading international position in the sustainable finance market, helping to attract
+sustainable investments to support a thriving economy.
+
+1.9
+
+In developing the anti‑greenwashing rule and guidance, we considered the regulatory
+principles in the Financial Services and Markets Act 2023 including that, where relevant
+to the exercise of our functions, we contribute towards achieving the UK’s net zero
+emissions target. We also considered the Chancellor’s latest remit letter, which asked us
+to have regard to the Government’s ambitions for the provision of sustainable finance.
+
+Summary of consultation
+1.10
+
+The consultation on this Guidance closed on 26 January 2024. We received 69 responses.
+
+1.11
+
+The feedback was broadly positive and supportive of both the Guidance and our
+initiative to minimise greenwashing.
+
+1.12
+
+The main areas of feedback related to the examples given and requests for further
+clarity on our expectations. This included calls for more examples covering a broader
+range of sectors, examples of good practice, and examples that include social as well
+as environmental scenarios. Some respondents commented on the implementation
+timeline. Additionally, many respondents asked us to clarify the scope of the
+anti‑greenwashing rule and its interaction with other parts of the FCA Handbook.
+
+1.13
+
+We have considered the feedback and set out our finalised Guidance in Chapter 2.
+We have included a Feedback Statement in Chapter 3 which summarises the feedback
+and our response.
+
+1.14
+
+The Guidance is intended to help firms comply with the anti‑greenwashing rule. It is
+consistent with existing expectations and does not create new obligations for firms.
+Firms may consider the Guidance as appropriate, depending on the nature of their
+business and the sustainability‑related claims they make.
+
+4
+
+Finalised guidance
+
+Chapter 2
+
+Guidance on the anti‑greenwashing rule
+Scope
+2.1
+
+Our anti‑greenwashing rule, in the Environmental, Social and Governance (ESG)
+Sourcebook (ESG 4.3.1R), requires firms to ensure that any reference to the
+sustainability characteristics of a product or service is: consistent with the sustainability
+characteristics of the product or service, and is fair, clear and not misleading.
+
+2.2
+
+The terms ‘environmental’, ‘social’ and ‘governance’ are used to refer to sustainability
+matters. However, there is no single definition of ‘sustainability’. In PS23/16 we
+said that we consider governance to be an enabler of environmental and/or social
+outcomes, rather than an end in itself, and we refer to ‘sustainability characteristics’ as
+environmental or social characteristics.
+
+2.3
+
+Our anti‑greenwashing rule applies when a firm:
+•
+•
+
+communicates with clients in the UK in relation to a product or service, or
+communicates a financial promotion (or approves a financial promotion for
+communication) to a person in the UK.
+
+2.4
+
+The rule applies with respect to references to sustainability characteristics
+(environmental and/or social characteristics) of a product or service.
+
+2.5
+
+The rule applies in relation to financial products and services which FCA-authorised
+firms make available for clients in the UK. This includes financial promotions that
+authorised firms communicate or approve for unauthorised persons (including for
+overseas products and services where the promotion is approved in the UK).
+
+2.6
+
+Firms are nevertheless subject to other rules including those that govern claims about
+the firm itself (as outlined below).
+
+2.7
+
+References to sustainability characteristics could be present in (but are not limited to)
+communications that include statements, assertions, strategies, targets, policies,
+information, and images relating to a product or service.
+
+2.8
+
+The rule applies to all authorised firms irrespective of whether they are subject to the
+Consumer Duty. Any reference to the Consumer Duty in this Guidance is designed to
+help firms interpret how the rule and the Duty interact, where relevant.
+
+2.9
+
+We recognise that some authorised firms operate a business‑to‑business model,
+as opposed to a customer‑to‑business model. For this reason, we have used the
+term ‘audience’ in this Guidance to better capture the client or person that firm may
+be communicating with. This may be, for example, existing or prospective clients,
+customers, consumers, or businesses.
+5
+
+Finalised guidance
+
+Existing requirements and related guidance
+2.10
+
+Various sections of our Handbook already require most firms to ensure the information
+they communicate is fair, clear and not misleading. This includes the Principles for
+Businesses (PRIN) that apply, in whole or in part, to most firms. Some sections of the
+Handbook also elaborate on what the ‘fair, clear and not misleading’ requirement means
+in specific contexts. For example, the Conduct of Business Sourcebook (COBS) 4.2 adds
+further prescription around financial promotions for investments and the Consumer
+Credit Sourcebook 3.3 adds detail for consumer credit.
+
+2.11
+
+The anti‑greenwashing rule is intended to complement and be consistent with these
+rules. It is not a substitute for, and is not intended to override, any other rules in the
+Handbook where firms may be subject to fair, clear and not misleading rules in specific
+circumstances. We included guidance in the relevant sourcebooks to remind firms of the
+anti‑greenwashing rule when they comply with other obligations.
+
+2.12
+
+Firms subject to the Consumer Duty will also need to consider its rules. Our
+expectations under the anti‑greenwashing rule for the retail market are consistent
+with the Duty. For example, we expect firms to act in good faith towards their retail
+customers, and to enable and support them to pursue their financial objectives.
+Similarly, under the consumer understanding outcome rules, in PRIN 2A.5, firms
+should give retail customers the information they need, presented in a way they are
+likely to understand, and that equips them to make effective, timely and properly
+informed decisions.
+
+2.13
+
+Firms are also subject to other legislation and guidance that applies to
+sustainability‑related claims. This includes existing consumer protection law, which
+covers what firms say, how they present it and what they fail to say about the
+environmental impacts or credentials of their products, services, brands, and activities.
+The Competition and Market Authority’s (CMA) guidance on environmental claims is
+designed to help firms understand and comply with their obligations under consumer
+protection law.
+
+2.14
+
+Our anti‑greenwashing rule and guidance is consistent with the CMA’s guidance on
+environmental claims and the requirements of the Advertising Standards Authority’s
+(ASA) guidance. We have worked closely with the CMA and ASA to ensure consistency.
+
+2.15
+
+While the scope of the anti‑greenwashing rule relates to products and services,
+we remind firms that the CMA and ASA’s guidance and FCA Principles 6 and 7 or,
+as relevant, the Consumer Duty (Principle 12 and the rules in PRIN 2A), apply to
+sustainability‑related claims that a firm may make about itself as a firm.
+
+6
+
+Finalised guidance
+
+Expectations and examples
+2.16
+
+This Guidance is designed to help firms understand our expectations under the
+anti‑greenwashing rule.
+
+2.17
+
+In practice, the effect of the anti‑greenwashing rule and the other rules mentioned
+above mean the following:
+
+Sustainability references should be:
+Correct and capable of being
+substantiated
+
+Clear and presented in a way that
+can be understood
+
+Complete – they should not omit
+or hide important information and
+should consider the full life cycle of the
+product or service
+
+Comparisons to other products or
+services are fair and meaningful
+
+7
+
+Finalised guidance
+
+The examples below were created for the purposes of this Guidance and are designed to
+help firms understand what the core principles of the Guidance mean in practice. They
+are not exhaustive. The Guidance often refers to references that firms make about the
+sustainability characteristics of products and services as ‘claims’.
+
+2.18
+
+Claims should be correct and capable of being substantiated
+
+The claims firms make should be factually correct. Firms should not state or imply
+features of a product or service that are not true. Nor should they overstate or
+exaggerate a product or service’s sustainability or positive environmental and/or
+social impact. Claims should only give the impression that a product or service has the
+sustainability characteristics that it really has. Claims can also be misleading if they
+provide conflicting or contradictory information.
+
+2.19
+
+A firm’s products or services should do what they say they do. They should live up to the
+claims made, and firms should be able to support those claims with robust and credible
+evidence. Claims should be capable of being substantiated at the point in time at which
+they are made. Firms should think carefully about whether they have the appropriate
+evidence to support their claims.
+
+2.20
+
+It is also important that firms regularly review their claims and any evidence that supports
+them, to ensure the evidence is still relevant for so long as those claims are being
+communicated (eg, a financial promotion is live). Firms should also ensure that their
+claims remain compliant with the anti‑greenwashing rule on an ongoing basis. Firms
+which approve financial promotions subject to the rules in COBS 4 should consider
+compliance with the anti‑greenwashing rule as part of their monitoring of the ongoing
+compliance of the financial promotion which they have approved.
+
+2.21
+
+Where a firm’s claim makes specific reference to the evidence that supports it, they may
+want to consider whether it would be helpful to make that evidence publicly available in
+an easily accessible way.
+
+Example 1
+
+A firm makes a promotional statement that an investment fund is ‘fossil fuel free’.
+However, the terms and conditions explain that the investment fund includes
+investments in companies involved in the production, selling, and distribution of
+fossil fuels where the company’s revenue earned from those activities is below a
+certain threshold.
+So, the companies within the investment fund are not ‘fossil fuel free’. This
+statement is not factually correct and is not capable of being substantiated, which
+makes the claim misleading.
+
+8
+
+Finalised guidance
+
+Example 2
+
+In the promotions for a fund, an investment manager prominently displays a
+claim that all investments are reviewed for their sustainability characteristics.
+However, not all investments are systematically reviewed for their sustainability
+characteristics, and sustainability characteristics are not always factored into the
+investment manager's decisions.
+There is a risk that the investment manager is overstating the extent to which
+they consider the sustainability characteristics of investments in the fund and
+that this claim cannot be substantiated. Should the investment manager wish to
+make this claim, all their investments should be consistently reviewed for their
+sustainability characteristics, and the investment manager should hold evidence
+to demonstrate how they do this and how the review is factored into their
+decision‑making process. The investment manager may want to consider whether
+to make this information publicly available in an easily accessible way.
+
+Example 3 (good practice)
+
+A firm advertises a fund which makes social sustainability claims, including
+statements that it invests in companies that have good labour practices in line
+with international best practice. The fund manager establishes clear and robust
+standards for selecting investee companies – it has chosen to include fair wages,
+safe working conditions and other criteria that align with international frameworks
+and standards. It assesses and monitors the investments that it has selected,
+and seeks to address any issues that arise while holding the investment through
+appropriate escalation. Its marketing materials include a clear explanation of the
+investment objectives and strategy, including its standards for selecting investee
+companies and the types of holdings in the fund.
+
+2.22
+
+2.23
+
+Claims should be clear and presented in a way that can be understood
+The claims firms make should be transparent and straightforward, and firms should
+consider whether the meaning of all the terms would be understood by the intended
+audience. For example, technical language may be difficult to understand, so firms
+should consider whether any technical terms could be explained for the intended
+audience, unless their meaning is clear and widely understood. The use of broad
+terms or general statements may be also unclear and confusing. Firms should not
+use terms that might give the impression that a product or service has sustainability
+characteristics that it does not have.
+
+Firms should consider whether the information they are providing is useful for the
+intended audience. Where a claim is being communicated to a professional client, firms
+may not need to include the same information or present it in the same way as they
+would for a communication addressed to a retail client.
+9
+
+Finalised guidance
+
+2.24
+
+Firms should also be aware of the overall impression a visual presentation of a claim
+can create. The images, logos and colours used are an important part of the overall
+presentation of a claim. Firms should consider how images, logos and colours together
+may be perceived by the audience when presented alongside other sustainability
+characteristics of a product or service. Claims may be undermined if what they say is
+factually correct, but their visual presentation conveys a different impression.
+
+2.25
+
+This Guidance does not extend to the use of images, logos, and colours in a context not
+intended to refer to, or describe, the sustainability characteristics of a product or service
+(although other rules may apply).
+
+2.26
+
+If firms are subject to the Consumer Duty, they should test their communications
+where appropriate. This testing should check that communications are likely to
+be understood by customers and meet their information needs so they can make
+effective, timely and properly informed decisions. Firms should consider if it would be
+appropriate to test communications relating to a product or service, where they are
+making sustainability‑related claims. Our consumer research on SDR and investment
+labels summarises our consumer testing findings, which shaped our final rules, and
+includes some considerations for asset management firms developing consumer‑facing
+disclosures.
+
+2.27
+
+Firms subject to the Duty should also ensure they have the necessary information to
+understand and monitor customer outcomes. This includes, where relevant, checking
+if customers are equipped with the information to make effective, timely and properly
+informed decisions. It also includes being able to assess the overall customer outcomes
+when they purchase a product or service or when they interact with a firm. For example,
+whether they can use the products or services as expected, the value that they receive,
+and whether they may be subject to harm. Where firms identify any problems, they
+should investigate and correct any deficiencies.
+
+Example 4
+
+A firm has a large image of a rainforest at the top of its webpage about its savings
+accounts, with an overlay of text that reads ‘Sustainable Savings’. The webpage
+includes its ‘Green Savings Account’ alongside a list of other savings accounts. Its
+‘Green Savings Account’ uses deposits to lend to companies to fund sustainable
+projects, while its other savings accounts do not.
+In this case, the image of the rainforest on the savings account webpage coupled
+with the text that reads ‘Sustainable Savings’ may give its audience the impression
+that the firm will use deposits in all savings accounts to help create positive
+sustainability outcomes. If only the deposits in its ‘Green Savings Account’ are
+ringfenced to fund sustainable projects, the use of both words and images in this
+way is potentially misleading as it gives the impression that the bank uses deposits
+to finance sustainable projects through more of the savings accounts offered than it
+actually does.
+
+10
+
+Finalised guidance
+
+If the firm wishes to use a sustainability‑related image, they should use an
+image that is consistent with the sustainability characteristics of the product or
+service, and only use that image in relation to products and services with those
+characteristics. In this case, it should only use the image and text for the ‘Green
+Savings Account’, rather than all savings accounts.
+
+2.28
+
+Claims should be complete – they should not omit or hide important
+information
+
+Claims should give a representative picture of the product or service. Firms should not
+omit or hide important information that might influence decision‑making.
+
+2.29
+
+Where claims are only true if certain conditions apply, those should be clearly and
+prominently stated. Similarly, the limitations of any information, data or metrics used in a
+claim should be clearly and prominently disclosed.
+
+2.30
+
+Claims should not highlight only positive sustainability impacts where this disguises
+negative impacts. Firms should present claims in a balanced way and not focus solely on
+a product or service’s positive sustainability characteristics, where other aspects may
+have a negative impact on sustainability.
+
+2.31
+
+Similarly, firms should consider the life cycle of a product or service, as appropriate,
+when making sustainability‑related claims. Firms should base their claims on the full life
+cycle of the product or service. Otherwise, for example in cases where certain elements
+of the life cycle may be more of interest in a consumer’s decision‑making process, firms
+should be clear about which part of the life cycle the claim relates to. Firms should not
+cherry‑pick information as this may give the impression that a product or service has
+sustainability characteristics that it does not have.
+
+2.32
+
+Firms should consider what information is necessary to include for the claim to give a
+representative picture of the product or service. Firms should also consider whether
+information about the firm itself may be considered part of the ‘representative
+picture’ of a product or service. It is important that those claims meet the relevant
+rules and expectations (as outlined above) so that the overall picture is fair, clear and
+not misleading.
+
+Example 5
+
+A bank promotes bonds and makes claims about their sustainability impact. The
+bonds are used to finance a range of sustainability projects including renewable
+energy and improving companies’ energy efficiency. However, eligible activities
+also include projects to improve the efficiency of fossil fuel energy production and
+distribution – information which is not included in the promotional materials.
+
+11
+
+Finalised guidance
+
+Omitting this information is potentially misleading for its audience as from
+the marketing materials consumers may not expect these bonds to include
+investments in projects related to fossil fuels. The firm should be transparent in
+its promotional materials about what the eligible activities might include. The firm
+could also explain how the projects can contribute to sustainability impact so that
+its consumers can better understand why they are eligible.
+
+Example 6
+
+A commonly tracked benchmark claims to be ‘sustainable’, by excluding
+companies with ESG ratings ‘lower than 3’. The benchmark administrator does
+not specify what the rating aims to assess, for example, whether it assesses
+sustainability‑related risks or impact. It also does not specify the scale the rating
+uses, which could be 1‑10, and does not disclose the rationale for choosing an
+ESG score of 3 as the appropriate threshold. It could, in reality, not be a high bar, as
+standards may vary across markets.
+The benchmark administrator does not give its audience complete information
+and so does not make it clear whether and how the benchmark is representing
+sustainable objectives. This could result in users and ultimately end‑investors
+being misled about the sustainability outcomes of the benchmark.
+
+Example 7 (good practice)
+
+A fund manager advertises its asset selection process as ‘focused on supporting
+carbon intensive companies with credible transition plans to finance their
+decarbonisation’. The fund promoted invests in Sustainability‑Linked Bonds (SLBs).
+In its marketing materials to potential investors the manager highlights how it
+selects only those SLBs that meet criteria that are ‘in line with market standards
+for best practice’.
+
+To support this claim, the fund manager names the SLB framework it uses to
+assess potential investments within the marketing materials. The marketing
+materials also set out the qualities it looks for within SLBs to support compliance
+with this framework – which in this case includes clear, measurable, and ambitious
+performance indicators and sustainability performance targets linked to a
+company’s transition plan, and routine reporting against these metrics which will
+be independently verified.
+
+12
+
+Finalised guidance
+
+2.33
+
+Comparisons should be fair and meaningful
+
+The claims firms make when comparing a product or service, either to one of their
+previous versions or to a competitors’, should be fair and meaningful. Comparisons
+should enable the audience to make informed choices about the products or services.
+
+2.34
+
+Claims comparing the sustainability characteristics of products and services should
+make clear what is being compared, how a comparison is being made and should
+compare like with like. Claims that appear to make market‑wide comparisons but are
+based only on a limited sample have the potential to mislead their audience.
+
+2.35
+
+Firms should be careful when making claims about the extent to which a feature of a
+product or service has sustainability characteristics when it may simply be meeting a
+minimum standard of compliance with existing legal requirements. Such claims could be
+misleading, as, while they may be true, they may also wrongly give the impression that
+their product or service is superior to others available.
+
+2.36
+
+Where comparative claims are made, any evidence to substantiate those should cover
+all products or services compared.
+
+Example 8
+
+A firm claims that by buying their investment bond, investors will ‘reduce emissions’
+more than through buying other investment bonds on the market. However, the
+firm does not make it clear to its audience that this comparison refers only to
+Scope 1 emissions (as opposed to all emissions – Scope 1, 2 and 3) and was based
+on a limited sample at a particular date.
+The firm has picked information that paints a better picture of its investment
+bond compared to others on the market. The claim does not make clear how the
+comparison is being made or its limitations. The firm should make the limitations
+of the comparative claim clear. In doing so, it should explain what is meant by
+Scope 1, 2 and 3 emissions, if this technical language is not widely understood by
+the intended audience, and the limitations of covering only Scope 1 emissions. It
+should clarify that the claim was based on a limited sample, explaining what the
+sample was and the date on which that sample was taken.
+
+13
+
+Finalised guidance
+
+Chapter 3
+3.1
+
+Feedback Statement
+
+The following chapter summarises the feedback to our guidance consultation (GC23/3)
+and our responses. We received 69 responses from a broad range of stakeholders
+including trade bodies and industry groups, consumer groups, non‑governmental
+organisations and firms from a variety of sectors. We provide a list of non‑confidential
+respondents in Annex 1.
+
+3.2
+
+The updated Guidance in Chapter 2 reflects our response to feedback and includes
+some further clarifications and new examples.
+
+3.3
+
+Overall, respondents broadly supported the Guidance and the practical examples.
+They supported our outcome to minimise greenwashing and welcomed both the
+anti‑greenwashing rule and guidance. Some stakeholders disagreed with certain
+aspects of the guidance, such as the implementation date. However most comments
+were calls for more examples covering a broader range of sectors and scenarios,
+including in relation to social matters, as well as good practice. Many respondents also
+asked us to clarify the scope of the anti‑greenwashing rule.
+Question 1:
+
+Does the proposed guidance clarify the anti‑greenwashing
+rule? If not, what more could we do to provide clarity?
+
+3.4
+
+Some respondents asked us to clarify the scope of the anti‑greenwashing rule and
+how the Guidance interacts with both the anti‑greenwashing rule and other rules that
+reference ‘fair, clear and not misleading’, such as COBS 4.2. This included calls for us to
+clarify whether the rule applies to the claims firms make about itself, firm‑level reports,
+reports required under other requirements (including those in other jurisdictions) and
+products and services that are unregulated or based overseas.
+
+3.5
+
+Some respondents asked us to clarify the interactions between the anti‑greenwashing
+rule and the naming and marketing rules under the SDR regime for asset managers, and
+some asked for further guidance in areas such as stewardship.
+
+3.6
+
+Some respondents asked us to define terminology such as ‘environmental/social
+characteristics’ and to elaborate on some of the terms used in the guidance such as
+‘complete’, ‘life cycle of a product’, ‘regular review’ and ‘periodically monitor’.
+
+3.7
+
+Some respondents asked for more clarity on our expectations when firms rely on
+third parties for data and information, particularly around the level of substantiation
+firms should have. There were calls for us to clarify whether firms following existing
+industry standards for sustainability will meet the anti‑greenwashing rule. Some also
+asked us whether firms can tailor information depending on whether they have retail or
+professional clients.
+
+3.8
+
+Some respondents asked us to outline our supervision and enforcement approach and
+explain where firms should prioritise implementation. Others asked if we will be updating
+the guidance periodically.
+14
+
+Finalised guidance
+
+Response
+This Guidance is intended to help firms comply with the anti‑greenwashing
+rule. Firms may consider this guidance in the context of the nature of
+business and the sustainability‑related claims they are making in relation to
+products and services.
+We have clarified the scope of the rule in Chapter 2. This includes
+clarifying that the rule is consistent with and complements existing
+rules in the Handbook, where firms may be subject to fair, clear and not
+misleading rules in specific circumstances. It is not a substitute for, nor
+does it override those rules.
+
+We clarified that the anti‑greenwashing rule applies in respect of
+references to sustainability characteristics of financial products and
+services, and financial promotions approved by UK firms for unauthorised
+persons. Firms are subject to other rules and expectations regarding the
+claims firms make about themselves and other firm‑level disclosures
+but should nevertheless take into account how firm‑level claims may be
+considered as part of the ‘representative picture’ in a decision‑making
+process. Firms should also consider the expectations and obligations
+under CMA guidance and ASA requirements.
+Firms subject to the naming and marketing rules for asset managers
+under the SDR and labelling regime must comply with those rules in
+addition to the anti‑greenwashing rule (see our response to question 3
+on timelines below). We have not provided further guidance on the wider
+SDR and labelling regime and firms subject to the rules should refer to
+PS23/16 and our webpage for further information.
+
+We have kept this Guidance principles‑based so that it can be applied
+across all sectors. Firms may consider the Guidance taking account
+of the nature of their audience. For example, a communication to a
+professional client or an eligible counterparty may not need to include the
+same information, or be presented in the same way, as a communication
+addressed to a retail client. Firms may also consider balancing the need for
+clear information with sufficient detail so that the audience can understand
+the claim. Where appropriate, consumer testing may be helpful.
+Where firms rely on third parties for information, they should consider
+the appropriateness of relying on data, research, analytical resources and
+other information provided by third parties to substantiate the claims
+they are making.
+Firms should consider the type of evidence that would be appropriate to
+ensure their claims are fair, clear and not misleading. This will depend on
+factors such as the nature of the product or service and the claims they
+are making. Our guidance is that firms should consider making evidence
+public, although firms may determine it is not appropriate to do so.
+
+15
+
+Finalised guidance
+
+We will take our usual supervisory and enforcement approaches. We may
+take supervisory or enforcement action where we have reason to believe
+that there is risk of consumer harm or where serious misconduct may
+have taken place.
+
+We will continue to provide support to industry on implementation of the
+regime through stakeholder engagement, including webinars and events.
+We will keep this Guidance under review and consider where we can build
+on and add sector-specific examples.
+Question 2:
+
+Do you have any comments on the proposed guidance
+including the examples given?
+
+3.9
+
+Most respondents supported the Guidance and examples provided. However, most
+respondents suggested it would be helpful to provide examples of good practice to
+illustrate how firms could be meeting the requirements. There were also calls for more
+examples, covering different sectors and types of firm, including distributors, portfolio
+managers, and examples for wholesale markets. Some respondents considered the
+guidance too focused on investment products while others wanted further clarity on its
+application to this sector. Many respondents called for examples on social claims.
+
+3.10
+
+In our wider work, we have had feedback from firms that they are concerned about
+the risk of greenwashing associated with supporting high emitting companies that are
+looking to reduce their carbon emissions over time.
+
+3.11
+
+Some respondents provided more detailed comments and considerations on the
+examples in the consultation. This includes, for example, comments on the use of
+images and colours and, more specifically, whether the anti‑greenwashing rule and
+guidance captures a firm's branding and logo.
+Response
+We have included two additional examples in Chapter 2 in response to
+feedback. However, the examples in this Guidance are not exhaustive,
+and firms should consider how the principles of this Guidance apply in
+relation to their business and the claims they are making. The examples
+should not be treated as the only circumstances in which greenwashing
+may occur or be avoided.
+We have added more examples on good practice to illustrate how the
+core principles of the guidance can be applied. We have included an
+example to help demonstrate how claims about social characteristics
+may be considered misleading. Where appropriate firms may wish to
+consider if other industry guidance or standards could help provide
+information that is more tailored to their sector.
+
+16
+
+Finalised guidance
+
+We are undertaking wider work to understand the challenges that the
+UK financial sector faces in providing transition finance with integrity to
+support companies to reduce their carbon emissions and meet net zero
+targets. To help firms, we have included an example in the Guidance to
+show that funds, and the broader financial sector, can support sustainability
+objectives though channelling finance to support net the zero transition.
+We have sought to provide more clarity on the use of visuals in Chapter 2.
+Should a firm wish to use an image in its sustainability‑related claims,
+it should be consistent with the sustainability characteristics of the
+product or service. This Guidance does not extend to the use of visuals
+in a context not intended to refer to, or describe, the sustainability
+characteristics of a product or service (although other rules may apply).
+Question 3:
+
+Do you agree that the guidance should come into force on
+31 May 2024?
+
+3.12
+
+Most respondents were supportive of the guidance coming force on 31 May 2024,
+alongside the anti‑greenwashing rule.
+
+3.13
+
+However, some respondents disagreed and said this would not be enough time for
+firms to review their claims and ensure they are complying with the rule. Of those
+that disagreed, most asked for the guidance to come into force on 2 December 2024,
+alongside the naming and marketing rules for asset managers who are not using labels
+but who are using sustainability‑related terms in their naming and marketing. Others
+suggested bringing the guidance into force on 31 July 2024 to align with the date that
+firms can start to use labels under the SDR and labelling regime, and the Consumer
+Duty requirement for closed products. Others asked us to introduce an ‘implementation
+period’ to allow firms time to review their claims and make any amendments without the
+risk of enforcement action.
+Response
+As the anti‑greenwashing rule will come into force on 31 May 2024, we
+are bringing the Guidance into force at the same time to provide firms
+with clarity on our expectations when complying with the new rule.
+This approach is consistent with the feedback we received to CP22/20,
+calling for us to provide guidance to clarify our expectations on the
+anti‑greenwashing rule.
+
+For most firms, the rule does not introduce a new requirement as they
+should already be ensuring their claims are ‘fair, clear and not misleading’
+under existing FCA requirements. In response to feedback to CP22/20,
+we did not bring the anti‑greenwashing rule into force on the date
+of publishing the final regime as intended, and instead we allowed an
+additional six months for firms to prepare if needed. We are therefore
+not introducing an additional transition period for the Guidance.
+We also remind firms of the ASA requirements and CMA guidance
+17
+
+Finalised guidance
+
+around environmental claims that they should be adhering to already.
+This Guidance is consistent with the existing guidance.
+
+All authorised firms need to meet the anti‑greenwashing rule on
+31 May 2024. Asset managers who are not using labels but are using
+sustainability‑related terms in their naming and marketing will not
+need to comply with the additional naming and marketing rules or
+produce the associated disclosures under the SDR and labelling regime
+until 2 December 2024. However, they must still comply with the
+anti‑greenwashing rule from 31 May 2024 and ensure their sustainability
+claims are fair, clear and not misleading and consistent with the
+sustainability characteristics of the product and service.
+
+18
+
+Finalised guidance
+
+Annex 1
+
+List of non‑confidential respondents
+ABN AMRO Bank N.V.
+Alternative Investment Management Association (AIMA)
+Association of British Insurers (ABI)
+Association of Financial Mutuals (AFM)
+Association of Foreign Banks (AFB)
+Association of Investment Companies (AIC)
+Association of Professional Compliance Consultants (APCC)
+Association of Real Estate Funds (AREF)
+BDO LLP
+BlackRock
+BlueMark
+British Private Equity & Venture Capital Association (BVCA)
+British Property Federation (BPF)
+Building Societies Association (BSA)
+ClientEarth
+Consumer Scotland
+Ecology Building Society
+ESG Accord Ltd
+Federated Hermes
+Financial Inclusion Centre
+Financial Services Consumer Panel
+First Sentier Investors
+INREV – European Association for Investors in Non‑Listed Real Estate Vehicles
+International Capital Market Association (ICMA)
+International Swaps and Derivatives Association (ISDA)
+International Underwriting Association (IUA)
+Investment Property Forum (IPF)
+19
+
+Finalised guidance
+
+LaSalle Investment Management
+Lending Standards Board (LSB)
+Loan Market Association (LMA)
+Melville Rodrigues Consulting LLP
+MSCI
+Nest Corporation
+NorthPeak Advisory
+Personal Investment Management & Financial Advice Association (PIMFA)
+Phoenix Group
+Principles for Responsible Investment (PRI)
+Rathbones Group Plc
+ShareAction
+Simmons & Simmons LLP
+SimplyBiz Services Limited
+Square Mile Investment Consulting and Research
+SRI Services
+The Big Exchange
+The City of London Law Society (CLLS)
+The Green Option Ltd (trading as The Green Insurer)
+The Investment Association
+The Lifescape Project
+Triodos Bank UK
+UK Finance
+UK Sustainable Investment and Finance Association (UKSIF)
+XPS Pensions Group
+Zurich
+A number of respondents requested their responses to be treated as confidential and
+we have treated responses from individuals as confidential.
+
+20
+
+Finalised guidance
+
+Annex 2
+
+Abbreviations used in this paper
+Abbreviation
+
+Description
+
+ASA
+
+Advertising Standards Authority
+
+CMA
+
+Competition and Markets Authority
+
+COBS
+
+Conduct of Business Sourcebook
+
+CP
+
+Consultation Paper
+
+ESG
+
+Environmental, Social and Governance
+
+FCA
+
+Financial Conduct Authority
+
+GC
+
+Guidance Consultation
+
+PRIN
+
+Principles for Businesses Sourcebook
+
+PS
+
+Policy Statement
+
+SDR
+
+Sustainability Disclosure Requirements
+
+SLB
+
+Sustainability-Linked Bonds
+
+UK
+
+United Kingdom
+
+All our publications are available to download from www.fca.org.uk.
+Request an alternative format
+
+Please complete this form if you require this content in an alternative format.
+Or call 020 7066 6087
+
+Sign up for our news and publications alerts
+
+21
+
+Finalised guidance
+
+22
+
+Pub ref: 2-008245
+
+© Financial Conduct Authority 2024
+12 Endeavour Square London E20 1JN
+Telephone: +44 (0)20 7066 1000
+Website: www.fca.org.uk
+All rights reserved
+
+
