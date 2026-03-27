@@ -12,17 +12,17 @@ The problem structure maps directly onto challenges I find compelling: unstructu
 
 ## The corpus
 Rather than scraping everything, I curated a small set of high-quality, authoritative sources. Curation decisions matter as much as retrieval — garbage in, garbage out.
-* EU Green Claims Directive (2024 draft)
+* EU Green Claims Directive (2024 draft) - 
 Sets the incoming legal standard for environmental claims in Europe
-* CMA Green Claims Code (UK)
+* CMA Green Claims Code (UK) - 
 The UK regulator's practical guidance on what makes a claim legitimate
-* FCA Anti-Greenwashing Guidance
+* FCA Anti-Greenwashing Guidance - 
 Applies to financial products and sustainability-linked instruments
-* IPCC AR6 Summary for Policymakers
+* IPCC AR6 Summary for Policymakers - 
 Ground truth for climate science claims
-* Science Based Targets initiative (SBTi) criteria
+* Science Based Targets initiative (SBTi) criteria - 
 The dominant standard for corporate net zero and emissions targets
-* GRI Sustainability Reporting Standards
+* GRI Sustainability Reporting Standards - 
 Widely used framework for what companies must disclose
 
 ## How it works
