@@ -40,11 +40,11 @@ No vector database at this scale — the full corpus fits comfortably within Gem
 
 Running it locally:
 
-`bashgit clone https://github.com/bamber-haworth/green-claims`
-`cd greencheck`
-`pip install streamlit google-genai`
-`export GEMINI_API_KEY=your_key_here`
-`streamlit run app.py`
+* `bashgit clone https://github.com/bamber-haworth/green-claims`
+* `cd greencheck`
+* `pip install streamlit google-genai`
+* `export GEMINI_API_KEY=your_key_here`
+* `streamlit run app.py`
 
 ## Limitations (and what I'd do next)
 This is a v0 built to learn, not a production tool. Limitations:
