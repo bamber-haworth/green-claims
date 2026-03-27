@@ -18,12 +18,9 @@ Sets the incoming legal standard for environmental claims in Europe
 The UK regulator's practical guidance on what makes a claim legitimate
 * FCA Anti-Greenwashing Guidance - 
 Applies to financial products and sustainability-linked instruments
-* IPCC AR6 Summary for Policymakers - 
-Ground truth for climate science claims
 * Science Based Targets initiative (SBTi) criteria - 
 The dominant standard for corporate net zero and emissions targets
-* GRI Sustainability Reporting Standards - 
-Widely used framework for what companies must disclose
+
 
 ## How it works
 
@@ -36,18 +33,18 @@ No vector database at this scale — the full corpus fits comfortably within Gem
 
 ## Stack
 
-Python / Streamlit — UI
-Gemini — LLM (free tier via Google AI Studio)
-Plain text corpus — no database, no embeddings at this scale
+* Python / Streamlit — UI
+* Gemini — LLM (free tier via Google AI Studio)
+* Plain text corpus — no database, no embeddings at this scale
 
 
 Running it locally:
 
-bashgit clone https://github.com/bamber-haworth/green-claims
-cd greencheck
-pip install streamlit google-genai
-export GEMINI_API_KEY=your_key_here
-streamlit run app.py
+`bashgit clone https://github.com/bamber-haworth/green-claims`
+`cd greencheck`
+`pip install streamlit google-genai`
+`export GEMINI_API_KEY=your_key_here`
+`streamlit run app.py`
 
 ## Limitations (and what I'd do next)
 This is a v0 built to learn, not a production tool. Limitations:
