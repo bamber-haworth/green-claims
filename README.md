@@ -2,6 +2,10 @@
 An AI-powered tool for validating environmental claims against open regulatory standards.
 Built as a learning project to explore how LLMs can make complex, unstructured policy documents easier to find, understand, and act on.
 
+
+https://github.com/user-attachments/assets/cb3a76e2-2f4c-4818-8376-3c3a197aa458
+
+
 ## What it does
 Companies make a lot of environmental claims. "Carbon neutral." "Sustainably sourced." "Net zero by 2030." Some are substantiated. Many aren't.
 GreenCheck lets you paste any green claim and validates it against a curated corpus of open regulatory and policy documents — returning a structured verdict, the relevant standard, and exactly what the regulation actually requires.
