@@ -1,5 +1,2 @@
 streamlit
 google-genai
-os
-json
-pathlib
