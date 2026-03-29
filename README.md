@@ -2,6 +2,7 @@
 An AI-powered tool for validating environmental claims against open regulatory standards.
 Built as a learning project to explore how LLMs can make complex, unstructured policy documents easier to find, understand, and act on.
 
+Try it at https://greencheck.streamlit.app/
 
 https://github.com/user-attachments/assets/cb3a76e2-2f4c-4818-8376-3c3a197aa458
 
